@@ -1,0 +1,10 @@
+.DS_Store
+*.o
+*.out
+bin/
+build/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.metadata/
